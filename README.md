@@ -23,4 +23,4 @@ Volume - the number of shares that changed hands during a given day
 
 ## Aim of the Project
 
-The aim of this data science and machine learning project is to visualise the stock market data, clean the irrelevant features, split tha data into train and test dataset and then apply **Long Short Term Memory(LSTM)** algorithm which is a type of **Recurrent Neural Network(RNN)** to the train data. Finally we make prediction on the test data and compute the accuracy using **Mean Squared Error(MSE)** as the evaluation metric. Finally, we also predict the stock price for future 30 days using previously trained data.  
+The aim of this data science and machine learning project is to visualise the stock market data, clean the irrelevant features, split the data into train and test dataset and then apply **Long Short Term Memory(LSTM)** algorithm which is a type of **Recurrent Neural Network(RNN)** to the train data. Finally we make a prediction on the test data and compute the accuracy using **Mean Squared Error(MSE)** as the evaluation metric. Finally, we also predict the stock price for future 30 days using previously trained data.  
